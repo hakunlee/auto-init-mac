@@ -1,7 +1,3 @@
-tap "homebrew/bundle"
-tap "homebrew/core"
-tap "homebrew/cask"
-tap "homebrew/cask-fonts"
 brew "cask"
 brew "mas"
 brew "font-meslo-lg-nerd-font"
